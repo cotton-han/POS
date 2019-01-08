@@ -1,4 +1,5 @@
 # POS
+![image](https://user-images.githubusercontent.com/39231606/50812842-a1413b00-1357-11e9-8bac-4c66fb693249.png)
 > 기능 
   1. Quantity 입력란 오류 처리
      - 구매 제품의 수량을 입력하는 Quantity 칸에 숫자 이외의 문자(빈 칸 포함)을 입력한 채로 "2.enterItem()" 버튼을 누르면,
@@ -30,5 +31,4 @@
      - Strategy 패턴 적용 & Composite 패턴 적용
   8. 계산하고자 하는 물건이 추가될 때 마다 현재 합계 표시
      - Observer 패턴 적용
-  
-  
+
